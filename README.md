@@ -21,4 +21,5 @@ Este repositório contém o código-fonte do meu **portfólio pessoal online**, 
 > **Em desenvolvimento** — melhorias visuais e funcionais estão em andamento.
 
 
-Sinta-se à vontade para clonar, estudar ou sugerir melhorias! 😄
+Sinta-se à vontade para clonar, estudar ou sugerir melhorias! 
+
